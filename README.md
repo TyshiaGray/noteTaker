@@ -14,5 +14,5 @@ https://rocky-bastion-99392.herokuapp.com/
 
 # The Note Taker Image
 
-<img src="./public/assets/images/noteTaker.png"> alt="note taker image">
+<img src="./public/assets/images/noteTaker.png" alt="note taker image">
 
