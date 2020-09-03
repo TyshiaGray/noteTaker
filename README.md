@@ -1,6 +1,6 @@
 #  Description noteTaker
 
-
+This application is designed for the user to take notes and save. 
 
 
 
